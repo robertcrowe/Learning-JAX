@@ -1,7 +1,7 @@
 # Learning-JAX
 Slide decks, coding exercises, and quick references for learning the JAX AI Stack.  The coding exercises are designed to be runnable in a free Colab instance.
 
-[A 23-video series teaching JAX is also available] (https://www.youtube.com/playlist?list=PLOU2XLYxmsIJBcjiFi8LdyY5YGR8sz0ZZ)
+[A 23-video series teaching JAX is also available](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJBcjiFi8LdyY5YGR8sz0ZZ)
 
 For more comprehensive documentation please see the individual websites:
 
